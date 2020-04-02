@@ -95,8 +95,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.035493642, y: 0.12010545, z: 0.030563742}
-  m_Center: {x: -0.042305842, y: -0.0000000037252903, z: 0}
+  m_Size: {x: 0.03762582, y: 0.12010545, z: 0.038027294}
+  m_Center: {x: -0.041239753, y: -0.00000000372529, z: -0.00053311046}
 --- !u!65 &5740588279787256856
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -108,8 +108,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.028683662, y: 0.12010545, z: 0.030563742}
-  m_Center: {x: 0.104996204, y: -0.0000000037252903, z: 0}
+  m_Size: {x: 0.03614735, y: 0.12010545, z: 0.040159743}
+  m_Center: {x: 0.10126436, y: -0.0000000037252903, z: -0.00053311326}
 --- !u!65 &5740588279787256857
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -121,8 +121,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.1793907, y: 0.02939558, z: 0.030563742}
-  m_Center: {x: 0.029642686, y: -0.04535494, z: 0}
+  m_Size: {x: 0.1793907, y: 0.03259425, z: 0.035894856}
+  m_Center: {x: 0.029642686, y: -0.043755606, z: -0.0026655532}
 --- !u!65 &5740588279787256862
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -134,8 +134,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.1793907, y: 0.027252845, z: 0.030563742}
-  m_Center: {x: 0.029642686, y: 0.0464263, z: 0}
+  m_Size: {x: 0.1793907, y: 0.033650182, z: 0.034828633}
+  m_Center: {x: 0.029642686, y: 0.043227635, z: 0.0021324428}
 --- !u!114 &5740588279787256930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -150,3 +150,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   link: {fileID: 2311162999674371513, guid: 27cf7bc0b62b173438fa9043a41aab83, type: 3}
   linknumber: 50
+  rlspeed: 0
+  goarray: []

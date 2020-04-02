@@ -262,7 +262,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.5
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -460,6 +460,21 @@ PrefabInstance:
         type: 3}
       propertyPath: rlspeed
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5740588279787256930, guid: afe71a0cc2ffc7441893263c06ede03e,
+        type: 3}
+      propertyPath: linknumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5740588279787256930, guid: afe71a0cc2ffc7441893263c06ede03e,
+        type: 3}
+      propertyPath: ramptime
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5740588279787256930, guid: afe71a0cc2ffc7441893263c06ede03e,
+        type: 3}
+      propertyPath: maxlinks
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afe71a0cc2ffc7441893263c06ede03e, type: 3}
