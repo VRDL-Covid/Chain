@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ChainSpawn.cs" />
+    <Compile Include="Assets\Prefab\anchorlink\ChainSpawn.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/kee18/WFH/Chain/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
